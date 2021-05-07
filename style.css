@@ -1,0 +1,40 @@
+
+.jumbotron {
+	height: 500px;
+	background-image: url('img/mars.jpg');
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: 0 -200px;
+	/*color: #eaeaea;*/
+	overflow: hidden;
+}
+
+nav {
+	font-family: Garamond;
+	font-size: 18px;
+}
+
+.jumbotron h1 {
+	font-family: Garamond;
+}
+
+.jumbotron p {
+	font-family: Garamond;
+}
+
+.portfolio {
+	font-family: Garamond;
+}
+
+.contact {
+	font-family: Garamond;
+}
+
+.about {
+	font-family: Garamond;
+	font-size: 20px;
+}
+
+footer {
+	font-family: Garamond;
+}
